@@ -77,6 +77,3 @@ A simple interactive implementation of **Conway's Game of Life** using **SDL3**.
    * `Close window` or `Ctrl+C` — exit the program.
 
 
-
-
-Do you want me to do that?
